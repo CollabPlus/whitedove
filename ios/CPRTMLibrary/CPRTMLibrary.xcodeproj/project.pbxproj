@@ -1489,10 +1489,6 @@
 		E7DFFDEF1B615520006512F9 /* PushNotificationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = PushNotificationController.h; sourceTree = "<group>"; };
 		E7DFFDF01B61552E006512F9 /* Roaster.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Roaster.h; sourceTree = "<group>"; };
 		E7DFFDF11B615538006512F9 /* Room.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Room.h; sourceTree = "<group>"; };
-		E7DFFDF31B615599006512F9 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
-		E7DFFDF41B615599006512F9 /* .gitmodules */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitmodules; sourceTree = "<group>"; };
-		E7DFFDF51B615599006512F9 /* .hgignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .hgignore; sourceTree = "<group>"; };
-		E7DFFDF61B615599006512F9 /* .travis.yml */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .travis.yml; sourceTree = "<group>"; };
 		E7DFFDF91B615599006512F9 /* XMPPAnonymousAuthentication.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMPPAnonymousAuthentication.h; sourceTree = "<group>"; };
 		E7DFFDFA1B615599006512F9 /* XMPPAnonymousAuthentication.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XMPPAnonymousAuthentication.m; sourceTree = "<group>"; };
 		E7DFFDFC1B615599006512F9 /* XMPPDeprecatedDigestAuthentication.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMPPDeprecatedDigestAuthentication.h; sourceTree = "<group>"; };
@@ -3624,10 +3620,6 @@
 		E7DFFDF21B615599006512F9 /* XMPPFramework */ = {
 			isa = PBXGroup;
 			children = (
-				E7DFFDF31B615599006512F9 /* .gitignore */,
-				E7DFFDF41B615599006512F9 /* .gitmodules */,
-				E7DFFDF51B615599006512F9 /* .hgignore */,
-				E7DFFDF61B615599006512F9 /* .travis.yml */,
 				E7DFFDF71B615599006512F9 /* Authentication */,
 				E7DFFE121B615599006512F9 /* Categories */,
 				E7DFFE191B615599006512F9 /* copying.txt */,
